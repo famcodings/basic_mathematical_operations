@@ -7,7 +7,7 @@ The `basic_mathematical_operations` is a simple python package to perform basic 
 You can install `basic_mathematical_operations` as follows:
 
 ```
-pip install --index-url https://test.pypi.org/simple/ --no-deps basic_mathematical_operations
+pip install -i https://test.pypi.org/simple/ basic-mathematical-operations
 ```
 Try to have fun with `basic_mathematical_operations`:
 
